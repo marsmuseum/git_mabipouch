@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git_mabipouch/static/css/main.d9dc4470.css",
+    "main.js": "/git_mabipouch/static/js/main.c74c8735.js",
+    "static/js/453.83184910.chunk.js": "/git_mabipouch/static/js/453.83184910.chunk.js",
+    "static/media/Mabinogi_Classic_TTF.ttf": "/git_mabipouch/static/media/Mabinogi_Classic_TTF.29cfc6b1788dec2cb6bc.ttf",
+    "index.html": "/git_mabipouch/index.html",
+    "main.d9dc4470.css.map": "/git_mabipouch/static/css/main.d9dc4470.css.map",
+    "main.c74c8735.js.map": "/git_mabipouch/static/js/main.c74c8735.js.map",
+    "453.83184910.chunk.js.map": "/git_mabipouch/static/js/453.83184910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9dc4470.css",
+    "static/js/main.c74c8735.js"
+  ]
+}
