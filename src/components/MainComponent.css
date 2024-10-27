@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'ManbinogiFont'; /* 원하는 이름 */
+    src: url('../fonts/Mabinogi_Classic_TTF.ttf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+body {
+    font-family: 'ManbinogiFont', sans-serif;
+  }
+
+select {
+    font-family: 'ManbinogiFont', sans-serif;
+    font-size: 1em;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    font-family: 'ManbinogiFont', sans-serif;
+    font-size: 1em;
+    padding: 10px 20px;
+    background-color: slategray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgray;
+}
+
+.item-table {
+    width: calc(100% - 20px);
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    table-layout: auto;
+}
+
+.item-table th, .item-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.item img{
+    width: 60px;
+    height: 60px;
+}
+
+.item-display-name {
+    font-size: 0.8em;
+}
+
+/*색상확인 스타일*/
+
+.color-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.color-preview {
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+}
+
+.color-box {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+.color-text {
+    font-size: 0.8em;
+}
